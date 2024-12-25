@@ -57,7 +57,12 @@ M.create_system_executor = function(program)
   end
 end
 
-local options = {}
+local options = {
+  executors = {
+    lua = execute_lua_code,
+    python = M.create_system_executor("python")
+  }
+}
 
 M.setup = function(opts)
   opts = opts or {}

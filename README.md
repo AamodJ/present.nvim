@@ -57,6 +57,6 @@ vim.keymap.set("n", "<leader>pp", "<cmd>PresentStart<CR>", {
 
 # Credits 
 
-This project is inspired from TJ's advent of neovim youtube playlist: [Advent of Neovim - TJ DeVries](https://youtube.com/playlist?list=PLep05UYkc6wTyBe7kPjQFWVXTlhKeQejM&si=hdGGi1kMSkn9LKAG):
+This project is inspired from TJ's advent of neovim youtube playlist: [Advent of Neovim - TJ DeVries](https://youtube.com/playlist?list=PLep05UYkc6wTyBe7kPjQFWVXTlhKeQejM&si=hdGGi1kMSkn9LKAG)
 
-Github repo: [tjdevries/present.nvim](https://github.com/tjdevries/present.nvim):
+Github repo: [tjdevries/present.nvim](https://github.com/tjdevries/present.nvim)
